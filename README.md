@@ -1,8 +1,8 @@
 # Hola, soy Jvinrey 👋  
 
-- 🎯 Estudiante de Ingeniería de Software (4to semestre), en constante aprendizaje.  
+- 🎯 Estudiante de Ingeniería de Software (5to semestre), en constante aprendizaje.  
 - 💻 Apasionado por el desarrollo y exploración de nuevas tecnologías.  
-- 🧠 Interesado en Inteligencia Artificial, Machine Learning y desarrollo de aplicaciones móviles.  
+- 🧠 Interesado en Inteligencia Artificial, Machine Learning y desarrollo web.  
 - 🔧 Disfruto trabajando con frameworks modernos, bases de datos y herramientas de productividad.  
 
 ---
@@ -39,3 +39,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
 </p>
+
+### 🎵 Hobby
+<p align = "left">
+  <img src="https://e7.pngegg.com/pngimages/4/438/png-clipart-spotify-logo-spotify-mobile-app-computer-icons-app-store-music-free-icon-spotify-miscellaneous-logo.png" width="45" height="45"/>
+  
+
