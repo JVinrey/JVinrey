@@ -41,7 +41,14 @@
 </p>
 
 ### 🎵 Hobby
-<p align = "left">
-  <img src="https://e7.pngegg.com/pngimages/4/438/png-clipart-spotify-logo-spotify-mobile-app-computer-icons-app-store-music-free-icon-spotify-miscellaneous-logo.png" width="45" height="45"/>
-  
+<p align="left">
+
+
+  <!-- Spotify -->
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="45" height="45"/>
+
+  <!-- Paseo -->
+  <img src="https://cdn-icons-png.flaticon.com/512/69/69906.png" width="45" height="45"/>
+</p>
+
 
