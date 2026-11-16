@@ -290,7 +290,7 @@
 
   <!-- Small dot bullet -->
   <circle cx="30" cy="90" r="3" fill="#ff6b35"/>
-  <text x="42" y="95" font-family="'Share Tech Mono', monospace" font-size="12" fill="#888899">Guayaquil, Ecuador · open to relocation or remote</text>
+  <text x="42" y="95" font-family="'Share Tech Mono', monospace" font-size="12" fill="#888899">Manta, Ecuador · open to relocation or remote</text>
 
   <!-- Main name glitch group -->
   <g class="glitch">
