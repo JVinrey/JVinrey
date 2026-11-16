@@ -2,32 +2,90 @@
 
 <br/>
 
-**Frontend Developer especializado en UI/UX e interfaces modernas**: React, Next.js, Tailwind CSS y TypeScript como stack principal. Integro IA (Claude, Kiro, Gemini) como copiloto de desarrollo para construir más rápido y con mayor calidad. 7mo semestre de Ingeniería de Software.
+### 🌌 Sobre mí
 
-<br/>
+```yaml
+usuario:    JVinrey
+carrera:    Ingeniería de Software (7mo Semestre) 🎓
+foco:       Frontend & Web Design 🎨
+filosofía:  "Diseñar interfaces intuitivas potenciadas por el flujo moderno de IA"
+stack_actual:
+  frontend:      [Next.js, React, Tailwind CSS, TypeScript]
+  backend_basics:[Node.js, PostgreSQL, Supabase, Prisma ORM]
+  ai_workflow:   [Prompt Engineering, Claude, Kiro, Gemini]
+```
 
-<sub>PROYECTOS</sub>
+- 🎯 **7mo Semestre** de Ingeniería de Software, profundizando con fuerza en **Frontend & UI/UX**.
+- 🎨 Creando experiencias visuales modernas, limpias, intuitivas y 100% responsivas para celulares y PC.
+- 🤖 **AI-Assisted Developer:** Gran dominio de prompting y herramientas de inteligencia artificial avanzadas (**Claude, Kiro, Gemini**) para acelerar el desarrollo y resolver problemas complejos.
+- ⚙️ **Backend con fundamentos sólidos:** APIs en Next.js/Node, bases de datos relacionales (**PostgreSQL / Supabase**) y ORMs modernos (**Prisma**).
 
-<table>
-  <tr><td nowrap><code>01</code></td><td nowrap><b>Proyecto Rifa</b></td><td>Sistema de gestión de rifas con frontend moderno en Next.js, base de datos en Supabase y lógica en Prisma ORM.</td></tr>
-  <tr><td nowrap><code>02</code></td><td nowrap><b>Portfolio</b></td><td>Sitio personal con diseño responsivo, animaciones CSS y optimizado para móvil y desktop.</td></tr>
-</table>
+---
 
-<p align="right"><sub><a href="https://github.com/JVinrey?tab=repositories">todos los repositorios →</a></sub></p>
+### 🚀 Tecnologías & Herramientas
 
-<sub>STACK</sub>
+#### 🎨 Frontend & Diseño (Mi Fuerte)
 
-<table>
-  <tr><td nowrap><b>Frontend</b></td><td>Next.js · React · Tailwind CSS · TypeScript · JavaScript · Vue.js · HTML5 · CSS3</td></tr>
-  <tr><td nowrap><b>Backend</b></td><td>Node.js · PostgreSQL · MySQL · Supabase · Prisma ORM · Python</td></tr>
-  <tr><td nowrap><b>IA & Workflow</b></td><td>Claude · Kiro · Gemini · Prompt Engineering avanzado</td></tr>
-  <tr><td nowrap><b>Herramientas</b></td><td>Git · GitHub · VS Code · Docker · Linux</td></tr>
-</table>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" height="45" title="Vue.js" />
+</p>
 
-<sub>CONTACTO</sub>
+#### 🤖 IA & Prompting Workflow
 
-[LinkedIn](https://www.linkedin.com/in/josue-vinces-reyes-07a85b339/) · [josuvince@gmail.com](mailto:josuvince@gmail.com)
+<p align="left">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Avanzado-7928CA?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kiro-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
-<br/>
+#### 🗄️ Backend Básico & Bases de Datos
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" height="45" title="Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" height="45" title="Prisma ORM" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python" />
+</p>
+
+#### 🛠️ Herramientas & Entorno
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" title="Linux" />
+</p>
+
+---
+
+### 📊 Actividad & Contribuciones
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JVinrey&theme=tokyonight-duo&hide_border=true&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=94A3B8&dates=4a5568" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=JVinrey&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=ff6b35&text_color=94A3B8&bg_color=0d1117" height="155" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVinrey&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=94A3B8&bg_color=0d1117" height="155" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="./assets/footer.svg" width="100%" alt="JVinrey footer" />
+
+</div>
