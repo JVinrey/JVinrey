@@ -88,17 +88,16 @@ stack_actual:
 
 ---
 
-### 📊 Estadísticas Cósmicas
+### 📊 Actividad & Contribuciones
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JVinrey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=E2E8F0" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVinrey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JVinrey&theme=dark&background=00000000&hide_border=true&ring=A855F7&fire=EC4899&currStreakNum=E2E8F0&sideNums=94A3B8&dates=64748B" alt="GitHub Streak" />
 
 <br/><br/>
 
-<!-- Snake Game animado comiendo contribuciones -->
-<img src="https://raw.githubusercontent.com/JVinrey/JVinrey/output/github-contribution-grid-snake.svg" alt="Snake animation" onerror="this.style.display='none'" />
+<img src="https://github-readme-stats.vercel.app/api?username=JVinrey&show_icons=true&theme=transparent&hide_border=true&title_color=A855F7&icon_color=EC4899&text_color=94A3B8" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVinrey&layout=compact&theme=transparent&hide_border=true&title_color=A855F7&text_color=94A3B8" height="150" alt="Top Languages" />
 
 </div>
 
