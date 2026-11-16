@@ -8,6 +8,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+(7mo+Semestre)+%F0%9F%8E%93;Especializ%C3%A1ndome+en+Frontend+%26+Dise%C3%B1o+Web+%E2%9C%A8;Potenciando+el+desarrollo+con+IA+(AGY%2C+Claude%2C+Gemini)+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
+<!-- Redes / Contacto Galáctico -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/josue-vinces-reyes-07a85b339/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Josué_Vinces-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:josuvince@gmail.com">
+    <img src="https://img.shields.io/badge/Email-josuvince@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 </div>
 
 <br/>
