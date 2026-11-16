@@ -77,8 +77,12 @@ stack_actual:
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JVinrey&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=ff6b35&text_color=94A3B8&bg_color=0d1117" height="155" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVinrey&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=94A3B8&bg_color=0d1117" height="155" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JVinrey&theme=tokyonight" height="155" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JVinrey&theme=tokyonight" height="155" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JVinrey&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
 </div>
 
